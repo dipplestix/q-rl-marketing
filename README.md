@@ -2,7 +2,7 @@
 
 _This has only been tested on OSX_
 
-1. Download a release of QD and have that running 
+1. Download a release of Wave and have that running 
 
 2. Create a python environment in the home app directory and install reqirements 
 ```bash
