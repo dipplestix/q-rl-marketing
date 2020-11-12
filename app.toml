@@ -1,0 +1,10 @@
+[App]
+Name = "ai.h2o.wave.rlmarketing"
+Version = "0.1.0"
+Title = "RL Marketing"
+Description = "Targeted marketing using Q-learning"
+Category = "Marketing"
+Keywords = ["Marketing"]
+
+[Runtime]
+module = "q_rl_marketing.__main__"
